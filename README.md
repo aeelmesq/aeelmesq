@@ -9,7 +9,7 @@ Passionate about technology, problem-solving and building scalable systems. Expe
 ## 🛠 Skills and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,nestjs,dotnet,mysql,postgres,mongodb,nextjs,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,nestjs,dotnet,react,nextjs,mysql,postgres,mongodb,redis,jest,githubactions,git,github,obsidian,vercel,docker" />
 </p>
 
 ---
