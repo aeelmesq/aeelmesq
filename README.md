@@ -17,3 +17,4 @@ Passionate about technology, problem-solving and building scalable systems. Expe
 ## 📫 Reach me
 
 - 📧 [alexandre.mdo23@gmail.com](mailto:alexandre.mdo23@gmail.com)
+- 💼 LinkedIn: [https://linkedin.com/in/aeelmesq](https://linkedin.com/in/aeelmesq)
